@@ -1,0 +1,71 @@
+{"frames": {
+
+"cloud-afternoon-v01.png":
+{
+	"frame": {"x":1068,"y":227,"w":534,"h":295},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":295},
+	"sourceSize": {"w":534,"h":295}
+},
+"cloud-night-v020.png":
+{
+	"frame": {"x":0,"y":227,"w":534,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":227},
+	"sourceSize": {"w":534,"h":227}
+},
+"cloud-night-v021.png":
+{
+	"frame": {"x":534,"y":0,"w":534,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":227},
+	"sourceSize": {"w":534,"h":227}
+},
+"cloud__raining-v01.png":
+{
+	"frame": {"x":534,"y":227,"w":534,"h":295},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":295},
+	"sourceSize": {"w":534,"h":295}
+},
+"cloud_cloud-afternoon-v02.png":
+{
+	"frame": {"x":0,"y":0,"w":534,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":227},
+	"sourceSize": {"w":534,"h":227}
+},
+"cloud_raining-v02.png":
+{
+	"frame": {"x":1068,"y":0,"w":534,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":227},
+	"sourceSize": {"w":534,"h":227}
+},
+"cloud_thundercloud.png":
+{
+	"frame": {"x":0,"y":522,"w":878,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":878,"h":331},
+	"sourceSize": {"w":878,"h":331}
+}},
+"animations": {
+	"cloud-night-v": ["cloud-night-v020.png","cloud-night-v021.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cloud.png",
+	"format": "RGBA8888",
+	"size": {"w":1602,"h":853},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dc55dc23f8d8d87a4ed3c4936a5775f4:91b37607ee1cdb0939a6dd47c461c3f5:9ec8b6ce27a186caff8882d1507ee32e$"
+}
+}

@@ -1,0 +1,79 @@
+{"frames": {
+
+"banner_plane_freshman0001.png":
+{
+	"frame": {"x":0,"y":0,"w":521,"h":315},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":315},
+	"sourceSize": {"w":521,"h":315}
+},
+"banner_plane_freshman0002.png":
+{
+	"frame": {"x":521,"y":0,"w":521,"h":315},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":315},
+	"sourceSize": {"w":521,"h":315}
+},
+"banner_plane_freshman0003.png":
+{
+	"frame": {"x":1042,"y":0,"w":521,"h":315},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":315},
+	"sourceSize": {"w":521,"h":315}
+},
+"banner_plane_freshman0004.png":
+{
+	"frame": {"x":0,"y":315,"w":521,"h":315},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":315},
+	"sourceSize": {"w":521,"h":315}
+},
+"banner_plane_freshman0005.png":
+{
+	"frame": {"x":521,"y":315,"w":521,"h":315},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":315},
+	"sourceSize": {"w":521,"h":315}
+},
+"banner_plane_freshman0006.png":
+{
+	"frame": {"x":1042,"y":315,"w":521,"h":315},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":315},
+	"sourceSize": {"w":521,"h":315}
+},
+"banner_plane_freshman0007.png":
+{
+	"frame": {"x":0,"y":630,"w":521,"h":315},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":315},
+	"sourceSize": {"w":521,"h":315}
+},
+"banner_plane_freshman0008.png":
+{
+	"frame": {"x":521,"y":630,"w":521,"h":315},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":315},
+	"sourceSize": {"w":521,"h":315}
+}},
+"animations": {
+	"banner_plane_freshman": ["banner_plane_freshman0001.png","banner_plane_freshman0002.png","banner_plane_freshman0003.png","banner_plane_freshman0004.png","banner_plane_freshman0005.png","banner_plane_freshman0006.png","banner_plane_freshman0007.png","banner_plane_freshman0008.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "surveyplane.png",
+	"format": "RGBA8888",
+	"size": {"w":1563,"h":945},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d340217d84648efb8439ca78a7f942f7:2794322e4624cfd8c48643657932149f:acf39e831775823f441b0f20230a9257$"
+}
+}

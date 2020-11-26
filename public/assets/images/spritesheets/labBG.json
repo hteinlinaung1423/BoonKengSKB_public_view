@@ -1,0 +1,44 @@
+{"frames": {
+
+"hoverICT.png":
+{
+	"frame": {"x":0,"y":0,"w":100,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":70},
+	"sourceSize": {"w":100,"h":70}
+},
+"lab.jpg":
+{
+	"frame": {"x":0,"y":197,"w":1920,"h":1080},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1080},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"laboratory.png":
+{
+	"frame": {"x":200,"y":0,"w":193,"h":197},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":197},
+	"sourceSize": {"w":193,"h":197}
+},
+"normalICT.png":
+{
+	"frame": {"x":100,"y":0,"w":100,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":70},
+	"sourceSize": {"w":100,"h":70}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "labBG.png",
+	"format": "RGBA8888",
+	"size": {"w":1920,"h":1277},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:372ba5822d3a9a8ec09eb3c46540d01d:4d3ee09aa93d5ad50b81b8068742768c:93d5e5727ffc69b15a047a70501eb66d$"
+}
+}

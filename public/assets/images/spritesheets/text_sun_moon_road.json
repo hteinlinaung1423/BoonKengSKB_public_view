@@ -1,0 +1,110 @@
+{"frames": {
+
+"approaches_mouseover.png":
+{
+	"frame": {"x":587,"y":91,"w":700,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":157},
+	"sourceSize": {"w":700,"h":157}
+},
+"approaches_normal.png":
+{
+	"frame": {"x":0,"y":248,"w":700,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":157},
+	"sourceSize": {"w":700,"h":157}
+},
+"grit_mouseover.png":
+{
+	"frame": {"x":570,"y":0,"w":587,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":587,"h":91},
+	"sourceSize": {"w":587,"h":91}
+},
+"grit_normal.png":
+{
+	"frame": {"x":0,"y":91,"w":587,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":587,"h":91},
+	"sourceSize": {"w":587,"h":91}
+},
+"laboratory.png":
+{
+	"frame": {"x":482,"y":407,"w":193,"h":197},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":197},
+	"sourceSize": {"w":193,"h":197}
+},
+"mindset_mouseover.png":
+{
+	"frame": {"x":0,"y":0,"w":285,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":285,"h":86},
+	"sourceSize": {"w":285,"h":86}
+},
+"mindset_normal.png":
+{
+	"frame": {"x":285,"y":0,"w":285,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":285,"h":86},
+	"sourceSize": {"w":285,"h":86}
+},
+"moon.png":
+{
+	"frame": {"x":0,"y":737,"w":534,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":535},
+	"sourceSize": {"w":534,"h":535}
+},
+"road-05.png":
+{
+	"frame": {"x":675,"y":407,"w":534,"h":330},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":330},
+	"sourceSize": {"w":534,"h":330}
+},
+"sun.png":
+{
+	"frame": {"x":534,"y":737,"w":613,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":613,"h":535},
+	"sourceSize": {"w":613,"h":535}
+},
+"wellbeing_mouseoever.png":
+{
+	"frame": {"x":700,"y":248,"w":482,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":482,"h":159},
+	"sourceSize": {"w":482,"h":159}
+},
+"wellbeing_normal.png":
+{
+	"frame": {"x":0,"y":407,"w":482,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":482,"h":159},
+	"sourceSize": {"w":482,"h":159}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "text_sun_moon_road.png",
+	"format": "RGBA8888",
+	"size": {"w":1287,"h":1272},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:46d78a29671fb195c3dce964112b3cd1:85fe6bf04d8bf0b159eed609da9c56df:70d69797fe9fc6e905e5ba8d2bfa2db4$"
+}
+}

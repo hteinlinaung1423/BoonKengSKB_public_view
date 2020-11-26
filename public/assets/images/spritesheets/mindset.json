@@ -1,0 +1,100 @@
+{"frames": {
+
+"BLD_Mindset_Tier000-min.png":
+{
+	"frame": {"x":0,"y":0,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+},
+"BLD_Mindset_Tier010-min.png":
+{
+	"frame": {"x":534,"y":0,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+},
+"BLD_Mindset_Tier020-min.png":
+{
+	"frame": {"x":1068,"y":0,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+},
+"BLD_Mindset_Tier030-min.png":
+{
+	"frame": {"x":0,"y":421,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+},
+"BLD_Mindset_Tier040-min.png":
+{
+	"frame": {"x":534,"y":421,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+},
+"BLD_Mindset_Tier050-min.png":
+{
+	"frame": {"x":1068,"y":421,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+},
+"BLD_Mindset_Tier060-min.png":
+{
+	"frame": {"x":0,"y":842,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+},
+"BLD_Mindset_Tier070-min.png":
+{
+	"frame": {"x":534,"y":842,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+},
+"BLD_Mindset_Tier080-min.png":
+{
+	"frame": {"x":1068,"y":842,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+},
+"BLD_Mindset_Tier090-min.png":
+{
+	"frame": {"x":0,"y":1263,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+},
+"BLD_Mindset_Tier100-min.png":
+{
+	"frame": {"x":534,"y":1263,"w":534,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":534,"h":421},
+	"sourceSize": {"w":534,"h":421}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mindset.png",
+	"format": "RGBA8888",
+	"size": {"w":1602,"h":1684},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7edef274b0a77d5f062d29576de7f440:afb4de0f4cea231ed85a33428327e825:f85f7ea84abd4a05fb586dee0ed521cd$"
+}
+}

@@ -1,0 +1,175 @@
+{"frames": {
+
+"SIT_Characters_berries_0.png":
+{
+	"frame": {"x":0,"y":0,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_1.png":
+{
+	"frame": {"x":360,"y":0,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_2.png":
+{
+	"frame": {"x":720,"y":0,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_3.png":
+{
+	"frame": {"x":1080,"y":0,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_4.png":
+{
+	"frame": {"x":1440,"y":0,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_5.png":
+{
+	"frame": {"x":0,"y":300,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_6.png":
+{
+	"frame": {"x":360,"y":300,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_7.png":
+{
+	"frame": {"x":720,"y":300,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_8.png":
+{
+	"frame": {"x":1080,"y":300,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_9.png":
+{
+	"frame": {"x":1440,"y":300,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_10.png":
+{
+	"frame": {"x":0,"y":600,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_11.png":
+{
+	"frame": {"x":360,"y":600,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_12.png":
+{
+	"frame": {"x":720,"y":600,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_13.png":
+{
+	"frame": {"x":1080,"y":600,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_14.png":
+{
+	"frame": {"x":1440,"y":600,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_15.png":
+{
+	"frame": {"x":0,"y":900,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_16.png":
+{
+	"frame": {"x":360,"y":900,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_17.png":
+{
+	"frame": {"x":720,"y":900,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_18.png":
+{
+	"frame": {"x":1080,"y":900,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+},
+"SIT_Characters_berries_19.png":
+{
+	"frame": {"x":1440,"y":900,"w":360,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":300},
+	"sourceSize": {"w":360,"h":300}
+}},
+"animations": {
+	"SIT_Characters_berries": ["SIT_Characters_berries_0.png","SIT_Characters_berries_1.png","SIT_Characters_berries_2.png","SIT_Characters_berries_3.png","SIT_Characters_berries_4.png","SIT_Characters_berries_5.png","SIT_Characters_berries_6.png","SIT_Characters_berries_7.png","SIT_Characters_berries_8.png","SIT_Characters_berries_9.png","SIT_Characters_berries_10.png","SIT_Characters_berries_11.png","SIT_Characters_berries_12.png","SIT_Characters_berries_13.png","SIT_Characters_berries_14.png","SIT_Characters_berries_15.png","SIT_Characters_berries_16.png","SIT_Characters_berries_17.png","SIT_Characters_berries_18.png","SIT_Characters_berries_19.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chest_berry.png",
+	"format": "RGBA8888",
+	"size": {"w":1800,"h":1200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ce3feda442bb7c2371616bc8213ffb74:0966cb514db92e841c534e5b2b675e90:6d9af77afb99d75937bd697eca840804$"
+}
+}

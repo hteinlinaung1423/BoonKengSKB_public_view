@@ -1,0 +1,87 @@
+{"frames": {
+
+"donut_1.png":
+{
+	"frame": {"x":0,"y":0,"w":125,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":90},
+	"sourceSize": {"w":125,"h":90},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"donut_2.png":
+{
+	"frame": {"x":125,"y":0,"w":126,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":91},
+	"sourceSize": {"w":126,"h":91},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"donut_3.png":
+{
+	"frame": {"x":0,"y":91,"w":125,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":90},
+	"sourceSize": {"w":125,"h":90},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"donut_4.png":
+{
+	"frame": {"x":125,"y":91,"w":125,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":90},
+	"sourceSize": {"w":125,"h":90},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"donut_5.png":
+{
+	"frame": {"x":0,"y":181,"w":125,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":90},
+	"sourceSize": {"w":125,"h":90},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"donut_6.png":
+{
+	"frame": {"x":125,"y":181,"w":126,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":90},
+	"sourceSize": {"w":126,"h":90},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"donut_7.png":
+{
+	"frame": {"x":0,"y":271,"w":125,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":90},
+	"sourceSize": {"w":125,"h":90},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"donut_8.png":
+{
+	"frame": {"x":125,"y":271,"w":125,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":90},
+	"sourceSize": {"w":125,"h":90},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"donut": ["donut_1.png","donut_2.png","donut_3.png","donut_4.png","donut_5.png","donut_6.png","donut_7.png","donut_8.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "donut_.png",
+	"format": "RGBA8888",
+	"size": {"w":251,"h":361},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:549e43952b990902b06cbbac2f1c883f:111db7819050601cae3a25ab9621e779:a3b32c7befd5316b1c87ffedc36fd862$"
+}
+}

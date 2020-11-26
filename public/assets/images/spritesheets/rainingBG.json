@@ -1,0 +1,20 @@
+{"frames": {
+
+"island_bg-raining.png":
+{
+	"frame": {"x":0,"y":0,"w":1920,"h":1080},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1080},
+	"sourceSize": {"w":1920,"h":1080}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "rainingBG.png",
+	"format": "RGBA8888",
+	"size": {"w":1920,"h":1080},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:37101e59a69efd42afeb8c84f6ead4d7:054b75d9658269d2483894bbc7d8a11f:cd5a4a00030f189c6bbfbf8ce315674b$"
+}
+}

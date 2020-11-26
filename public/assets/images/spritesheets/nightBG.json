@@ -1,0 +1,20 @@
+{"frames": {
+
+"island_bg-night.png":
+{
+	"frame": {"x":0,"y":0,"w":1920,"h":1080},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1080},
+	"sourceSize": {"w":1920,"h":1080}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "nightBG.png",
+	"format": "RGBA8888",
+	"size": {"w":1920,"h":1080},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:68c69469af6cfb3296a875b82af56026:9bc4d74d51f01607acadef6055e8850b:d660a4f7c5c877d023209f5eefb23dfa$"
+}
+}
