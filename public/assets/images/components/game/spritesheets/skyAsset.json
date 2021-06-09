@@ -1,0 +1,80 @@
+{"frames": {
+
+"bannerplane_newSurvey_01.png":
+{
+	"frame": {"x":0,"y":0,"w":521,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":316},
+	"sourceSize": {"w":521,"h":316}
+},
+"bannerplane_newSurvey_02.png":
+{
+	"frame": {"x":521,"y":0,"w":521,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":316},
+	"sourceSize": {"w":521,"h":316}
+},
+"bannerplane_newSurvey_03.png":
+{
+	"frame": {"x":1042,"y":0,"w":521,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":316},
+	"sourceSize": {"w":521,"h":316}
+},
+"bannerplane_newSurvey_04.png":
+{
+	"frame": {"x":0,"y":316,"w":521,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":316},
+	"sourceSize": {"w":521,"h":316}
+},
+"jetplane_01.png":
+{
+	"frame": {"x":521,"y":316,"w":312,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":200},
+	"sourceSize": {"w":312,"h":200}
+},
+"jetplane_02.png":
+{
+	"frame": {"x":833,"y":316,"w":312,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":200},
+	"sourceSize": {"w":312,"h":200}
+},
+"jetplane_03.png":
+{
+	"frame": {"x":1145,"y":316,"w":312,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":200},
+	"sourceSize": {"w":312,"h":200}
+},
+"jetplane_04.png":
+{
+	"frame": {"x":1457,"y":316,"w":312,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":200},
+	"sourceSize": {"w":312,"h":200}
+}},
+"animations": {
+	"bannerplane_newSurvey": ["bannerplane_newSurvey_01.png","bannerplane_newSurvey_02.png","bannerplane_newSurvey_03.png","bannerplane_newSurvey_04.png"],
+	"jetplane": ["jetplane_01.png","jetplane_02.png","jetplane_03.png","jetplane_04.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "skyAsset.png",
+	"format": "RGBA8888",
+	"size": {"w":1769,"h":632},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:19a8c137676ecfeec871e3c865a06c7c:0ebb1eb6670c59855c4da33fa5cbf72b:7bca6ef20b048b5d36c43220b328c134$"
+}
+}

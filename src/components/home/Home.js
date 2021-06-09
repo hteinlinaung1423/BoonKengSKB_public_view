@@ -29,7 +29,7 @@ const Home = () => {
                 </Grid>
             </Grid>
             <br />
-          
+
             <Grid container justify={"center"}>
                 <Grid item xs={12} sm={10} lg={6}>
                     <PostCard />
@@ -38,7 +38,7 @@ const Home = () => {
 
             <Button
                 variant={'outlined'}
-                color={'danger'} onClick={logout} >
+                onClick={logout} >
                 Log Out
             </Button>
         </div>

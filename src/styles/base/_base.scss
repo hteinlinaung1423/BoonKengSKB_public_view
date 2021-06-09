@@ -36,3 +36,17 @@ tr:nth-child(even) {
     left: 0;
     right: 0;
 }
+
+.gameContainer {
+    position: relative;
+    overflow: hidden;
+
+    .MuiGrid-container {
+        height: 100vh !important;
+
+        canvas {
+            width: 100% !important;
+            height: 100% !important;
+        }
+    }
+}

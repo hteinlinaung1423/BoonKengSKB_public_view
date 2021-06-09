@@ -11,21 +11,34 @@ import FormControlLabel from "@material-ui/core/FormControlLabel";
 import Checkbox from "@material-ui/core/Checkbox";
 import Hidden from "@material-ui/core/Hidden";
 import { useHistory } from "react-router-dom";
+import { login } from '../../actions/auth-actions/authactions'
 
 // DL01 = DashboardLogin01
 // I think we don't have to use the full name, it's redundant.
-const DashboardLogin01 = () => {
+const LoginContainer = () => {
     const history = useHistory();
     const [userName, setUserName] = React.useState('');
     const [password, setPassword] = React.useState('');
 
-    const loginHandle = () => {
-        if (userName.length > 0 && userName === 'htein') {
-            if (password.length > 0 && password === "Pass1423$") {
-                sessionStorage.setItem("jwt", "asdf");
+    const loginHandle = async () => {
+        let loginModel = {
+            userId: userName,
+            password
+        }
+
+        let response = await login(JSON.stringify(loginModel));
+        if (response > 200 || response.status === "Failed") {
+            alert("Something went wrong!");
+        }
+        else {
+            if (response.data !== null) {
+                sessionStorage.setItem("jwt", response.jwt);
                 history.push("/Home")
             }
-        }      
+            else {
+                alert(response.message);
+            }
+        }
     }
 
     return (
@@ -46,13 +59,8 @@ const DashboardLogin01 = () => {
                     <div className={"DL01-cover"} />
                     <div className={"DL01-content"}>
                         <Typography variant={"h3"} className={"DL01-brand"} gutterBottom>
-                            BoonKengSKB Group
-                    </Typography>
-                        <Typography>Feel the power inside you.</Typography>
-                        <br />
-                        <Typography className={"DL01-description"}>
-                            Dont let you down with their power.
-                    </Typography>
+                            Upper Boon Keng SKB-Group
+                        </Typography>
                     </div>
                 </Grid>
             </Hidden>
@@ -70,9 +78,7 @@ const DashboardLogin01 = () => {
                     <img
                         alt={"logo"}
                         className={"DL01-logo"}
-                        src={
-                            "https://images.vexels.com/media/users/3/144356/isolated/preview/52fb168f1bd3abf7e97a8e9bfdac331d-speed-car-logo-by-vexels.png"
-                        }
+                        src='/assets/images/icon/wine.png'
                     />
                     <Typography color={"textSecondary"}>
                         We provide the best service
@@ -92,17 +98,12 @@ const DashboardLogin01 = () => {
                         label={"Password"}
                         margin={"normal"}
                         variant="filled"
+                        type={'password'}
                         value={password}
                         onChange={event => {
                             setPassword(event.target.value)
                         }}
                     />
-                    <FormControl fullWidth>
-                        <FormControlLabel
-                            control={<Checkbox value="checkedC" />}
-                            label="Remember Me"
-                        />
-                    </FormControl>
                     <FormControl margin={"normal"} fullWidth>
                         <Button fullWidth variant={"contained"} color={"primary"} onClick={() => { loginHandle() }}>
                             Log in
@@ -117,7 +118,7 @@ const DashboardLogin01 = () => {
     );
 }
 
-DashboardLogin01.getTheme = ({ palette, breakpoints }) => {
+LoginContainer.getTheme = ({ palette, breakpoints }) => {
     const gradient = `linear-gradient(49deg, ${Color(palette.primary.main)
         .darken(0.7)
         .toString()} 0%, ${Color(palette.primary.main)
@@ -127,7 +128,7 @@ DashboardLogin01.getTheme = ({ palette, breakpoints }) => {
             .fade(0.7)
             .toString()} 100%)`;
     const cover =
-        "https://media.wired.com/photos/59273cc6cefba457b079c810/master/pass/FFZERO1_029.jpg";
+        "/assets/images/wallpapers/login.jpeg";
     return {
         MuiGrid: {
             container: {
@@ -256,4 +257,4 @@ DashboardLogin01.getTheme = ({ palette, breakpoints }) => {
     };
 };
 
-export default DashboardLogin01;
+export default LoginContainer;
