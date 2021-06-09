@@ -1,5 +1,5 @@
 #### Technology Stack
-* **Treasure Hunter Mini Game**
+* **Boonkeng SKB website**
   * React 16
   * Webpack 4
   * Babel 7
